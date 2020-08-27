@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="fixing coverage">
+    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="fixing coverage by adding example test">
+      <change afterPath="$PROJECT_DIR$/iteration/iteration.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteration/iteration_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,21 +91,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World unit tests using subtest &amp; table test technique" />
     <MESSAGE value="Example functions in unit tests and godoc comments" />
     <MESSAGE value="pull from master" />
-    <option name="LAST_COMMIT_MESSAGE" value="pull from master" />
+    <MESSAGE value="fixing coverage by adding example test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing coverage by adding example test" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598521442711">
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598532080262">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598521442711" />
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598532080262" />
     <state x="216" y="141" key="Github.CreatePullRequestDialog" timestamp="1598521607052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
