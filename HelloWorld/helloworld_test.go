@@ -1,4 +1,4 @@
-package main
+package helloworld
 
 import "testing"
 
@@ -85,4 +85,9 @@ func TestHelloWorldTable(t *testing.T) {
 			assertMessage(t, got, test.expected)
 		})
 	}
+}
+
+func ExampleSayGreeting() {
+	SayGreeting()
+	// Output: Hello Asad
 }

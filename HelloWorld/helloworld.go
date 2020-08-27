@@ -1,4 +1,4 @@
-package main
+package helloworld
 
 import "fmt"
 
@@ -8,7 +8,7 @@ const frenchHelloPrefix = "Bonjour "
 const spanishHelloPrefix = "Hola "
 const englishHelloPrefix string = "Hello "
 
-func main() {
+func SayGreeting() {
 	fmt.Println(Hello("Asad", "English"))
 }
 
