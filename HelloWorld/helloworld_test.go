@@ -1,6 +1,14 @@
 package helloworld
 
-import "testing"
+import (
+	"go-with-tdd/coverage"
+	"testing"
+)
+
+// Coverage enforcement
+func TestMain(m *testing.M) {
+	coverage.EnforceCoverage(m, 1, "helloworld")
+}
 
 // Helper test assertion
 func assertMessage(t *testing.T, got string, expected string) {
