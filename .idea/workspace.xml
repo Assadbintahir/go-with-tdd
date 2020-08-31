@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="fixing coverage by adding example test">
-      <change afterPath="$PROJECT_DIR$/iteration/iteration.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iteration/iteration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices_arrays/sum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices_arrays/sum_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
