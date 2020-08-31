@@ -2,8 +2,14 @@ package integers
 
 import (
 	"fmt"
+	"go-with-tdd/coverage"
 	"testing"
 )
+
+// Coverage enforcement
+func TestMain(m *testing.M) {
+	coverage.EnforceCoverage(m, 1, "integers")
+}
 
 func TestAdder(t *testing.T) {
 	type parameters struct{ first, second int }

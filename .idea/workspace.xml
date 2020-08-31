@@ -22,10 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="fixing coverage by adding example test">
-      <change afterPath="$PROJECT_DIR$/slices_arrays/sum.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slices_arrays/sum_test.go" afterDir="false" />
+    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="array &amp; slice &amp; helper utils">
+      <change afterPath="$PROJECT_DIR$/coverage/coverage.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/helloworld_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/helloworld_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integers/adder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/integers/adder_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration/iteration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/iteration/iteration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slices_arrays/sum_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/slices_arrays/sum_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,16 +102,17 @@
     <MESSAGE value="Example functions in unit tests and godoc comments" />
     <MESSAGE value="pull from master" />
     <MESSAGE value="fixing coverage by adding example test" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing coverage by adding example test" />
+    <MESSAGE value="array &amp; slice &amp; helper utils" />
+    <option name="LAST_COMMIT_MESSAGE" value="array &amp; slice &amp; helper utils" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598532080262">
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598853853572">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598532080262" />
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598853853572" />
     <state x="216" y="141" key="Github.CreatePullRequestDialog" timestamp="1598521607052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

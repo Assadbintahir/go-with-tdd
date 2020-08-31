@@ -1,9 +1,15 @@
 package slices_arrays
 
 import (
+	"go-with-tdd/coverage"
 	"reflect"
 	"testing"
 )
+
+// Coverage enforcement
+func TestMain(m *testing.M) {
+	coverage.EnforceCoverage(m, 1, "slices_arrays")
+}
 
 func TestSum(t *testing.T) {
 	t.Run("should return the sum", func(t *testing.T) {
