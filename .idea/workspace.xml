@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="array &amp; slice &amp; helper utils">
-      <change afterPath="$PROJECT_DIR$/struct_interface/struct_interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struct_interface/struct_interface_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pointers_errors/pointers_errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pointers_errors/pointers_errors_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,9 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1gfof9zDIgrRWixQgefhGEG8T8m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,7 +78,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,28 +102,29 @@
     <MESSAGE value="pull from master" />
     <MESSAGE value="fixing coverage by adding example test" />
     <MESSAGE value="array &amp; slice &amp; helper utils" />
-    <option name="LAST_COMMIT_MESSAGE" value="array &amp; slice &amp; helper utils" />
+    <MESSAGE value="use of struct/interface &amp; table tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="use of struct/interface &amp; table tests" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598853853572">
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598938624779">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598853853572" />
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598938624779" />
     <state x="216" y="141" key="Github.CreatePullRequestDialog" timestamp="1598521607052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="216" y="141" key="Github.CreatePullRequestDialog/0.27.1366.741@0.27.1366.741" timestamp="1598521607052" />
-    <state x="184" y="27" key="SettingsEditor" timestamp="1598521414722">
+    <state x="184" y="27" key="SettingsEditor" timestamp="1598938938634">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="184" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1598521414722" />
-    <state x="283" y="120" key="Vcs.Push.Dialog.v2" timestamp="1598522280767">
+    <state x="184" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1598938938634" />
+    <state x="283" y="120" key="Vcs.Push.Dialog.v2" timestamp="1598938307758">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="283" y="120" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1598522280767" />
+    <state x="283" y="120" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1598938307758" />
     <state x="86" y="27" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1598521565677">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
