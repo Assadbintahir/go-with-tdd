@@ -23,13 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="array &amp; slice &amp; helper utils">
-      <change afterPath="$PROJECT_DIR$/coverage/coverage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_interface/struct_interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_interface/struct_interface_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/helloworld_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/helloworld_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integers/adder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/integers/adder_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iteration/iteration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/iteration/iteration_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slices_arrays/sum_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/slices_arrays/sum_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
