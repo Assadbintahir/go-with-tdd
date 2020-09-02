@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="array &amp; slice &amp; helper utils">
-      <change afterPath="$PROJECT_DIR$/pointers_errors/pointers_errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pointers_errors/pointers_errors_test.go" afterDir="false" />
+    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="use of pointers &amp; errors anatomy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointers_errors/pointers_errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointers_errors/pointers_errors.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="pointers/errors" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
