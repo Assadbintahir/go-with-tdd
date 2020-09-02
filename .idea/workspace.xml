@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="use of pointers &amp; errors anatomy">
+    <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="errors with context &amp; stacktrace">
+      <change afterPath="$PROJECT_DIR$/maps/maps.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/maps_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointers_errors/pointers_errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointers_errors/pointers_errors.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,31 +103,40 @@
     <MESSAGE value="fixing coverage by adding example test" />
     <MESSAGE value="array &amp; slice &amp; helper utils" />
     <MESSAGE value="use of struct/interface &amp; table tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="use of struct/interface &amp; table tests" />
+    <MESSAGE value="errors with context &amp; stacktrace" />
+    <option name="LAST_COMMIT_MESSAGE" value="errors with context &amp; stacktrace" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1598938624779">
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1599026890230">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1598938624779" />
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1599026890230" />
+    <state x="342" y="169" key="EditFileWatcherDialog" timestamp="1599024542924">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="342" y="169" key="EditFileWatcherDialog/0.27.1366.741@0.27.1366.741" timestamp="1599024542924" />
     <state x="216" y="141" key="Github.CreatePullRequestDialog" timestamp="1598521607052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="216" y="141" key="Github.CreatePullRequestDialog/0.27.1366.741@0.27.1366.741" timestamp="1598521607052" />
-    <state x="184" y="27" key="SettingsEditor" timestamp="1598938938634">
+    <state x="184" y="27" key="SettingsEditor" timestamp="1599024546020">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="184" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1598938938634" />
-    <state x="283" y="120" key="Vcs.Push.Dialog.v2" timestamp="1598938307758">
+    <state x="184" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1599024546020" />
+    <state x="283" y="120" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599021830419">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="283" y="120" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1598938307758" />
+    <state x="283" y="120" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1599021830419" />
     <state x="86" y="27" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1598521565677">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="86" y="27" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.27.1366.741@0.27.1366.741" timestamp="1598521565677" />
+    <state x="492" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599021847796">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="492" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1599021847796" />
   </component>
 </project>
