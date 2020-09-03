@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359cb286-0966-4fc7-b671-07ec62dd6ffa" name="Default Changelist" comment="errors with context &amp; stacktrace">
-      <change afterPath="$PROJECT_DIR$/maps/maps.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/maps_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/di/di.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/di/di_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="pointers/errors" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,10 +110,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1599026890230">
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog" timestamp="1599110886239">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1599026890230" />
+    <state x="100" y="99" width="1166" height="574" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1599110886239" />
     <state x="342" y="169" key="EditFileWatcherDialog" timestamp="1599024542924">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
